@@ -75,5 +75,13 @@ Lcuriosity micro pcb 3mH
 ### Connect
 
 <p align="center">
-<a href="https://github.com/sofM1"><img src="https://img.shields.io/badge/GitHub-sofM1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=30363d"/></a><a href="mailto:masofiaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-masofiaia-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=30363d"/></a><a href="mailto:smabaguinon@mymail.mapua.edu.ph"><img src="https://img.shields.io/badge/Outlook-Mapua%20Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=30363d"/></a><a href="https://oshwlab.com/masofiaia/works"><img src="https://img.shields.io/badge/EasyEDA-Projects-FF8C00?style=for-the-badge&labelColor=30363d"/></a>
+<a href="https://github.com/sofM1"><img src="https://img.shields.io/badge/GitHub-sofM1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=30363d"/></a>
+<a href="mailto:masofiaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-masofiaia-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=30363d"/></a>
+<a href="mailto:smabaguinon@mymail.mapua.edu.ph"><img src="https://img.shields.io/badge/Outlook-Mapua%20Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=30363d"/></a>
+
+<br>
+
+<p align="center">
+<a href="https://oshwlab.com/masofiaia/works"><img src="https://img.shields.io/badge/EasyEDA- PCB Projects-FF8C00?style=for-the-badge&labelColor=30363d"/></a>
+<a href="https://makerworld.com/en/@sofM1"><img src="https://img.shields.io/badge/MakerWorld-3D Models-09AE42?style=for-the-badge&labelColor=30363d"/></a>
 </p>
