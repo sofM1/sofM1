@@ -82,6 +82,6 @@ Lcuriosity micro pcb 3mH
 <br>
 
 <p align="center">
-<a href="https://oshwlab.com/masofiaia/works"><img src="https://img.shields.io/badge/EasyEDA-PCB Projects-FF8C00?style=for-the-badge&labelColor=30363d"/></a>
+<a href="https://oshwlab.com/masofiaia/works"><img src="https://img.shields.io/badge/EasyEDA-PCB Projects-1765F6?style=for-the-badge&labelColor=30363d"/></a>
 <a href="https://makerworld.com/en/@sofM1"><img src="https://img.shields.io/badge/MakerWorld-3D Models-09AE42?style=for-the-badge&labelColor=30363d"/></a>
 </p>
