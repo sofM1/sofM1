@@ -72,7 +72,7 @@ Lcuriosity micro pcb 3mH
 
 ---
 
-### Connect
+## Connect
 
 <p align="center">
 <a href="https://github.com/sofM1"><img src="https://img.shields.io/badge/GitHub-sofM1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=30363d"/></a>
