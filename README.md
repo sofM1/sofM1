@@ -31,12 +31,13 @@ Lcuriosity micro pcb 3mH
 
 ## Tech Stack
 
-### Hardware, PCB, and 3D Modelling
+### Hardware, PCB, Simulation, and 3D Modelling
 
 <p>
   <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LTspice-CC0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Proteus-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GTKWave-2DB6A3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Fusion%20360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
@@ -46,6 +47,7 @@ Lcuriosity micro pcb 3mH
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-HDL-8A2BE2?style=for-the-badge"/>
 </p>
 
 ### Development Tools
@@ -62,8 +64,8 @@ Lcuriosity micro pcb 3mH
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofM1&show_icons=true&bg_color=0b0f14&title_color=ff6b6b&text_color=d0d0d0&icon_color=4da6ff&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofM1&layout=compact&bg_color=0b0f14&title_color=ff6b6b&text_color=d0d0d0&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sofM1&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b0f14&title_color=ff6b6b&text_color=d0d0d0&icon_color=4da6ff&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofM1&layout=compact&count_private=true&bg_color=0b0f14&title_color=ff6b6b&text_color=d0d0d0&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
