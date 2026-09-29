@@ -61,19 +61,6 @@ Lcuriosity micro pcb 3mH
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofM1&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b0f14&title_color=ff6b6b&text_color=d0d0d0&icon_color=4da6ff&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofM1&layout=compact&count_private=true&bg_color=0b0f14&title_color=ff6b6b&text_color=d0d0d0&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofM1&bg_color=0b0f14&color=d0d0d0&line=ff6b6b&point=4da6ff&hide_border=true"/>
-</p>
-
----
-
 ## Connect
 
 <p align="center">
